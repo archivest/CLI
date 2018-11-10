@@ -1,6 +1,6 @@
-﻿# СLI
+﻿# СLI example
     
-This program is basically an implementation of Data Base that is operated through Console Line Interface.
+This program is basically an implementation of CLI interface for Data Base.
 
 With start, it reads all lines from a file, then does its own thing which depends on starting arguments (see below),
 
