@@ -20,7 +20,8 @@ This example creates person "Ivanov, male, born 19 of May 1995 A.D." AND person 
 The program then prints personID assigned to each person.
 
 
-### "-u" to update info of given person. There should be following with four more parameters which are the personal ID of given person,
+### "-u" to update info of given person. 
+There should be following with four more parameters which are the personal ID of given person,
 
  Name of a person, their sex(m or f) and birthdate (in the format of dd/MM/yyyy).
 
@@ -29,14 +30,16 @@ This example replaces previously created person "Ivanov" with a person "Sokolova
 
 
 
-### "-d" to delete a person from the database. There should be following with one more parameter which is ID assigned to person that we want to delete.
+### "-d" to delete a person from the database. 
+There should be following with one more parameter which is ID assigned to person that we want to delete.
 
 Example: -d 0 ...
 This example nullifies all fields assigned to previously added "Ivanov".
 
 
 
-### "-i" to get info about given person. There should be following with one more parameter which is ID assigned to person that we want to get info about.
+### "-i" to get info about given person. 
+There should be following with one more parameter which is ID assigned to person that we want to get info about.
 
 Example: -i 0 ...
 This example prints in a console "Ivanov m 19/05/1995".
